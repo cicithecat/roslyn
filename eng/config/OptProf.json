@@ -97,176 +97,6 @@
           ]
         },
         {
-          "container": "XamlOptProf",
-          "filteredTestCases": [
-            {
-              "filename": "/Microsoft.CodeAnalysis.EditorFeatures.Text.dll",
-              "testCases":[ "Microsoft.Test.Performance.XamlOptProfCreateTests.WpfCreateProject_DesignerIsolated" ]
-            },
-            {
-              "filename": "/DesktopHost/Microsoft.CodeAnalysis.Features.dll",
-              "testCases":[ "Microsoft.Test.Performance.XamlOptProfCreateTests.WpfCreateProject_DesignerIsolated" ]
-            },
-            {
-              "filename": "/Microsoft.VisualStudio.LanguageServices.dll",
-              "testCases":[ "Microsoft.Test.Performance.XamlOptProfCreateTests.WpfCreateProject_DesignerIsolated" ]
-            },
-            {
-              "filename": "/DesktopHost/System.Reflection.Metadata.dll",
-              "testCases":[ "Microsoft.Test.Performance.XamlOptProfCreateTests.WpfCreateProject_DesignerIsolated" ]
-            },
-            {
-              "filename": "/DesktopHost/System.Numerics.Vectors.dll",
-              "testCases":[ "Microsoft.Test.Performance.XamlOptProfCreateTests.WpfCreateProject_DesignerIsolated" ]
-            },
-            {
-              "filename": "/Microsoft.CodeAnalysis.Workspaces.dll",
-              "testCases":[ "Microsoft.Test.Performance.XamlOptProfCreateTests.WpfCreateProject_DesignerIsolated" ]
-            },
-            {
-              "filename": "/Microsoft.CodeAnalysis.VisualBasic.dll",
-              "testCases":[ "Microsoft.Test.Performance.XamlOptProfCreateTests.WpfCreateProject_DesignerIsolated" ]
-            },
-            {
-              "filename": "/Microsoft.VisualStudio.LanguageServices.SolutionExplorer.dll",
-              "testCases":[ "Microsoft.Test.Performance.XamlOptProfCreateTests.WpfCreateProject_DesignerIsolated" ]
-            },
-            {
-              "filename": "/DesktopHost/System.Collections.Immutable.dll",
-              "testCases":[ "Microsoft.Test.Performance.XamlOptProfCreateTests.WpfCreateProject_DesignerIsolated" ]
-            },
-            {
-              "filename": "/DesktopHost/Microsoft.CodeAnalysis.dll",
-              "testCases":[ "Microsoft.Test.Performance.XamlOptProfCreateTests.WpfCreateProject_DesignerIsolated" ]
-            },
-            {
-              "filename": "/Microsoft.VisualStudio.LanguageServices.CSharp.dll",
-              "testCases":[ "Microsoft.Test.Performance.XamlOptProfCreateTests.WpfCreateProject_DesignerIsolated" ]
-            },
-            {
-              "filename": "/Microsoft.CodeAnalysis.CSharp.EditorFeatures.dll",
-              "testCases":[ "Microsoft.Test.Performance.XamlOptProfCreateTests.WpfCreateProject_DesignerIsolated" ]
-            },
-            {
-              "filename": "/Microsoft.VisualStudio.LanguageServices.Xaml.dll",
-              "testCases":[ "Microsoft.Test.Performance.XamlOptProfCreateTests.WpfCreateProject_DesignerIsolated" ]
-            },
-            {
-              "filename": "/Microsoft.CodeAnalysis.CSharp.Workspaces.dll",
-              "testCases":[ "Microsoft.Test.Performance.XamlOptProfCreateTests.WpfCreateProject_DesignerIsolated" ]
-            },
-            {
-              "filename": "/Microsoft.VisualStudio.LanguageServices.Implementation.dll",
-              "testCases":[ "Microsoft.Test.Performance.XamlOptProfCreateTests.WpfCreateProject_DesignerIsolated" ]
-            },
-            {
-              "filename": "/Microsoft.CodeAnalysis.EditorFeatures.Wpf.dll",
-              "testCases":[ "Microsoft.Test.Performance.XamlOptProfCreateTests.WpfCreateProject_DesignerIsolated" ]
-            },
-            {
-              "filename": "/Microsoft.CodeAnalysis.CSharp.Features.dll",
-              "testCases":[ "Microsoft.Test.Performance.XamlOptProfCreateTests.WpfCreateProject_DesignerIsolated" ]
-            },
-            {
-              "filename": "/DesktopHost/System.Memory.dll",
-              "testCases":[ "Microsoft.Test.Performance.XamlOptProfCreateTests.WpfCreateProject_DesignerIsolated" ]
-            },
-            {
-              "filename": "/DesktopHost/Microsoft.CodeAnalysis.CSharp.dll",
-              "testCases":[ "Microsoft.Test.Performance.XamlOptProfCreateTests.WpfCreateProject_DesignerIsolated" ]
-            },
-            {
-              "filename": "/Microsoft.CodeAnalysis.EditorFeatures.dll",
-              "testCases":[ "Microsoft.Test.Performance.XamlOptProfCreateTests.WpfCreateProject_DesignerIsolated" ]
-            },
-            {
-              "filename": "/DesktopHost/System.Runtime.CompilerServices.Unsafe.dll",
-              "testCases":[ "Microsoft.Test.Performance.XamlOptProfCreateTests.WpfCreateProject_DesignerIsolated" ]
-            }
-          ]
-        },
-        {
-          "container": "WinForms",
-          "filteredTestCases": [
-            {
-              "filename": "/Microsoft.CodeAnalysis.EditorFeatures.Text.dll",
-              "testCases":[ "WinForms.OptProfTests.winforms_largeform_vb" ]
-            },
-            {
-              "filename": "/DesktopHost/Microsoft.CodeAnalysis.Features.dll",
-              "testCases":[ "WinForms.OptProfTests.winforms_largeform_vb" ]
-            },
-            {
-              "filename": "/Microsoft.VisualStudio.LanguageServices.dll",
-              "testCases":[ "WinForms.OptProfTests.winforms_largeform_vb" ]
-            },
-            {
-              "filename": "/DesktopHost/System.Reflection.Metadata.dll",
-              "testCases":[ "WinForms.OptProfTests.winforms_largeform_vb" ]
-            },
-            {
-              "filename": "/DesktopHost/System.Numerics.Vectors.dll",
-              "testCases":[ "WinForms.OptProfTests.winforms_largeform_vb" ]
-            },
-            {
-              "filename": "/Microsoft.CodeAnalysis.VisualBasic.Features.dll",
-              "testCases":[ "WinForms.OptProfTests.winforms_largeform_vb" ]
-            },
-            {
-              "filename": "/Microsoft.CodeAnalysis.Workspaces.dll",
-              "testCases":[ "WinForms.OptProfTests.winforms_largeform_vb" ]
-            },
-            {
-              "filename": "/Microsoft.CodeAnalysis.VisualBasic.dll",
-              "testCases":[ "WinForms.OptProfTests.winforms_largeform_vb" ]
-            },
-            {
-              "filename": "/Microsoft.VisualStudio.LanguageServices.SolutionExplorer.dll",
-              "testCases":[ "WinForms.OptProfTests.winforms_largeform_vb" ]
-            },
-            {
-              "filename": "/DesktopHost/System.Collections.Immutable.dll",
-              "testCases":[ "WinForms.OptProfTests.winforms_largeform_vb" ]
-            },
-            {
-              "filename": "/DesktopHost/Microsoft.CodeAnalysis.dll",
-              "testCases":[ "WinForms.OptProfTests.winforms_largeform_vb" ]
-            },
-            {
-              "filename": "/Microsoft.VisualStudio.LanguageServices.Implementation.dll",
-              "testCases":[ "WinForms.OptProfTests.winforms_largeform_vb" ]
-            },
-            {
-              "filename": "/Microsoft.CodeAnalysis.VisualBasic.EditorFeatures.dll",
-              "testCases":[ "WinForms.OptProfTests.winforms_largeform_vb" ]
-            },
-            {
-              "filename": "/Microsoft.CodeAnalysis.EditorFeatures.Wpf.dll",
-              "testCases":[ "WinForms.OptProfTests.winforms_largeform_vb" ]
-            },
-            {
-              "filename": "/Microsoft.VisualStudio.LanguageServices.VisualBasic.dll",
-              "testCases":[ "WinForms.OptProfTests.winforms_largeform_vb" ]
-            },
-            {
-              "filename": "/DesktopHost/System.Memory.dll",
-              "testCases":[ "WinForms.OptProfTests.winforms_largeform_vb" ]
-            },
-            {
-              "filename": "/Microsoft.CodeAnalysis.EditorFeatures.dll",
-              "testCases":[ "WinForms.OptProfTests.winforms_largeform_vb" ]
-            },
-            {
-              "filename": "/DesktopHost/System.Runtime.CompilerServices.Unsafe.dll",
-              "testCases":[ "WinForms.OptProfTests.winforms_largeform_vb" ]
-            },
-            {
-              "filename": "/Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll",
-              "testCases":[ "WinForms.OptProfTests.winforms_largeform_vb" ]
-            }
-          ]
-        },
-        {
           "container": "TeamEng",
           "filteredTestCases": [
             {
@@ -453,6 +283,176 @@
             {
               "filename": "/Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll",
               "testCases":[ "VSPE.OptProfTests.vs_asl_vb_scenario", "VSPE.OptProfTests.vs_perf_designtime_solution_build_vb_australiangovernment", "VSPE.OptProfTests.vs_perf_designtime_solution_loadclose_vb_australiangovernment" ]
+            }
+          ]
+        },
+        {
+          "container": "WinForms",
+          "filteredTestCases": [
+            {
+              "filename": "/Microsoft.CodeAnalysis.EditorFeatures.Text.dll",
+              "testCases":[ "WinForms.OptProfTests.winforms_largeform_vb" ]
+            },
+            {
+              "filename": "/DesktopHost/Microsoft.CodeAnalysis.Features.dll",
+              "testCases":[ "WinForms.OptProfTests.winforms_largeform_vb" ]
+            },
+            {
+              "filename": "/Microsoft.VisualStudio.LanguageServices.dll",
+              "testCases":[ "WinForms.OptProfTests.winforms_largeform_vb" ]
+            },
+            {
+              "filename": "/DesktopHost/System.Reflection.Metadata.dll",
+              "testCases":[ "WinForms.OptProfTests.winforms_largeform_vb" ]
+            },
+            {
+              "filename": "/DesktopHost/System.Numerics.Vectors.dll",
+              "testCases":[ "WinForms.OptProfTests.winforms_largeform_vb" ]
+            },
+            {
+              "filename": "/Microsoft.CodeAnalysis.VisualBasic.Features.dll",
+              "testCases":[ "WinForms.OptProfTests.winforms_largeform_vb" ]
+            },
+            {
+              "filename": "/Microsoft.CodeAnalysis.Workspaces.dll",
+              "testCases":[ "WinForms.OptProfTests.winforms_largeform_vb" ]
+            },
+            {
+              "filename": "/Microsoft.CodeAnalysis.VisualBasic.dll",
+              "testCases":[ "WinForms.OptProfTests.winforms_largeform_vb" ]
+            },
+            {
+              "filename": "/Microsoft.VisualStudio.LanguageServices.SolutionExplorer.dll",
+              "testCases":[ "WinForms.OptProfTests.winforms_largeform_vb" ]
+            },
+            {
+              "filename": "/DesktopHost/System.Collections.Immutable.dll",
+              "testCases":[ "WinForms.OptProfTests.winforms_largeform_vb" ]
+            },
+            {
+              "filename": "/DesktopHost/Microsoft.CodeAnalysis.dll",
+              "testCases":[ "WinForms.OptProfTests.winforms_largeform_vb" ]
+            },
+            {
+              "filename": "/Microsoft.VisualStudio.LanguageServices.Implementation.dll",
+              "testCases":[ "WinForms.OptProfTests.winforms_largeform_vb" ]
+            },
+            {
+              "filename": "/Microsoft.CodeAnalysis.VisualBasic.EditorFeatures.dll",
+              "testCases":[ "WinForms.OptProfTests.winforms_largeform_vb" ]
+            },
+            {
+              "filename": "/Microsoft.CodeAnalysis.EditorFeatures.Wpf.dll",
+              "testCases":[ "WinForms.OptProfTests.winforms_largeform_vb" ]
+            },
+            {
+              "filename": "/Microsoft.VisualStudio.LanguageServices.VisualBasic.dll",
+              "testCases":[ "WinForms.OptProfTests.winforms_largeform_vb" ]
+            },
+            {
+              "filename": "/DesktopHost/System.Memory.dll",
+              "testCases":[ "WinForms.OptProfTests.winforms_largeform_vb" ]
+            },
+            {
+              "filename": "/Microsoft.CodeAnalysis.EditorFeatures.dll",
+              "testCases":[ "WinForms.OptProfTests.winforms_largeform_vb" ]
+            },
+            {
+              "filename": "/DesktopHost/System.Runtime.CompilerServices.Unsafe.dll",
+              "testCases":[ "WinForms.OptProfTests.winforms_largeform_vb" ]
+            },
+            {
+              "filename": "/Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll",
+              "testCases":[ "WinForms.OptProfTests.winforms_largeform_vb" ]
+            }
+          ]
+        },
+        {
+          "container": "XamlOptProf",
+          "filteredTestCases": [
+            {
+              "filename": "/Microsoft.CodeAnalysis.EditorFeatures.Text.dll",
+              "testCases":[ "Microsoft.Test.Performance.XamlOptProfCreateTests.WpfCreateProject_DesignerIsolated" ]
+            },
+            {
+              "filename": "/DesktopHost/Microsoft.CodeAnalysis.Features.dll",
+              "testCases":[ "Microsoft.Test.Performance.XamlOptProfCreateTests.WpfCreateProject_DesignerIsolated" ]
+            },
+            {
+              "filename": "/Microsoft.VisualStudio.LanguageServices.dll",
+              "testCases":[ "Microsoft.Test.Performance.XamlOptProfCreateTests.WpfCreateProject_DesignerIsolated" ]
+            },
+            {
+              "filename": "/DesktopHost/System.Reflection.Metadata.dll",
+              "testCases":[ "Microsoft.Test.Performance.XamlOptProfCreateTests.WpfCreateProject_DesignerIsolated" ]
+            },
+            {
+              "filename": "/DesktopHost/System.Numerics.Vectors.dll",
+              "testCases":[ "Microsoft.Test.Performance.XamlOptProfCreateTests.WpfCreateProject_DesignerIsolated" ]
+            },
+            {
+              "filename": "/Microsoft.CodeAnalysis.Workspaces.dll",
+              "testCases":[ "Microsoft.Test.Performance.XamlOptProfCreateTests.WpfCreateProject_DesignerIsolated" ]
+            },
+            {
+              "filename": "/Microsoft.CodeAnalysis.VisualBasic.dll",
+              "testCases":[ "Microsoft.Test.Performance.XamlOptProfCreateTests.WpfCreateProject_DesignerIsolated" ]
+            },
+            {
+              "filename": "/Microsoft.VisualStudio.LanguageServices.SolutionExplorer.dll",
+              "testCases":[ "Microsoft.Test.Performance.XamlOptProfCreateTests.WpfCreateProject_DesignerIsolated" ]
+            },
+            {
+              "filename": "/DesktopHost/System.Collections.Immutable.dll",
+              "testCases":[ "Microsoft.Test.Performance.XamlOptProfCreateTests.WpfCreateProject_DesignerIsolated" ]
+            },
+            {
+              "filename": "/DesktopHost/Microsoft.CodeAnalysis.dll",
+              "testCases":[ "Microsoft.Test.Performance.XamlOptProfCreateTests.WpfCreateProject_DesignerIsolated" ]
+            },
+            {
+              "filename": "/Microsoft.VisualStudio.LanguageServices.CSharp.dll",
+              "testCases":[ "Microsoft.Test.Performance.XamlOptProfCreateTests.WpfCreateProject_DesignerIsolated" ]
+            },
+            {
+              "filename": "/Microsoft.CodeAnalysis.CSharp.EditorFeatures.dll",
+              "testCases":[ "Microsoft.Test.Performance.XamlOptProfCreateTests.WpfCreateProject_DesignerIsolated" ]
+            },
+            {
+              "filename": "/Microsoft.VisualStudio.LanguageServices.Xaml.dll",
+              "testCases":[ "Microsoft.Test.Performance.XamlOptProfCreateTests.WpfCreateProject_DesignerIsolated" ]
+            },
+            {
+              "filename": "/Microsoft.CodeAnalysis.CSharp.Workspaces.dll",
+              "testCases":[ "Microsoft.Test.Performance.XamlOptProfCreateTests.WpfCreateProject_DesignerIsolated" ]
+            },
+            {
+              "filename": "/Microsoft.VisualStudio.LanguageServices.Implementation.dll",
+              "testCases":[ "Microsoft.Test.Performance.XamlOptProfCreateTests.WpfCreateProject_DesignerIsolated" ]
+            },
+            {
+              "filename": "/Microsoft.CodeAnalysis.EditorFeatures.Wpf.dll",
+              "testCases":[ "Microsoft.Test.Performance.XamlOptProfCreateTests.WpfCreateProject_DesignerIsolated" ]
+            },
+            {
+              "filename": "/Microsoft.CodeAnalysis.CSharp.Features.dll",
+              "testCases":[ "Microsoft.Test.Performance.XamlOptProfCreateTests.WpfCreateProject_DesignerIsolated" ]
+            },
+            {
+              "filename": "/DesktopHost/System.Memory.dll",
+              "testCases":[ "Microsoft.Test.Performance.XamlOptProfCreateTests.WpfCreateProject_DesignerIsolated" ]
+            },
+            {
+              "filename": "/DesktopHost/Microsoft.CodeAnalysis.CSharp.dll",
+              "testCases":[ "Microsoft.Test.Performance.XamlOptProfCreateTests.WpfCreateProject_DesignerIsolated" ]
+            },
+            {
+              "filename": "/Microsoft.CodeAnalysis.EditorFeatures.dll",
+              "testCases":[ "Microsoft.Test.Performance.XamlOptProfCreateTests.WpfCreateProject_DesignerIsolated" ]
+            },
+            {
+              "filename": "/DesktopHost/System.Runtime.CompilerServices.Unsafe.dll",
+              "testCases":[ "Microsoft.Test.Performance.XamlOptProfCreateTests.WpfCreateProject_DesignerIsolated" ]
             }
           ]
         }
