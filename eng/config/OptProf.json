@@ -538,7 +538,7 @@
       "assembly": "System.Collections.Immutable.dll",
       "instrumentationArguments": [
         {
-          "relativeInstallationFolder": "Common7/IDE/PrivateAssemblies",
+          "relativeInstallationFolder": "MSBuild/Current/Bin/Roslyn",
           "instrumentationExecutable": "Common7/IDE/vsn.exe"
         }
       ],
@@ -587,7 +587,7 @@
       "assembly": "System.Reflection.Metadata.dll",
       "instrumentationArguments": [
         {
-          "relativeInstallationFolder": "Common7/IDE/PrivateAssemblies",
+          "relativeInstallationFolder": "MSBuild/Current/Bin/Roslyn",
           "instrumentationExecutable": "Common7/IDE/vsn.exe"
         }
       ],
