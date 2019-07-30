@@ -494,7 +494,7 @@
             },
             {
               "filename": "/Microsoft.CodeAnalysis.ExpressionEvaluator.ExpressionCompiler.dll",
-              "testCases":[ "TeamEng.OqptProfTest.vs_debugger_start_no_build_cs_scribble" ]
+              "testCases":[ "TeamEng.OptProfTest.vs_debugger_start_no_build_cs_scribble" ]
             },
             {
               "filename": "/Microsoft.CodeAnalysis.CSharp.ExpressionEvaluator.ExpressionCompiler.dll",
